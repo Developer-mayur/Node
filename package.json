@@ -1,0 +1,25 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "practical Emplimentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Developer-mayur/Node.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "DeveloperMayur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Developer-mayur/Node/issues"
+  },
+  "homepage": "https://github.com/Developer-mayur/Node#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
